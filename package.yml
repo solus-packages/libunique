@@ -1,6 +1,6 @@
 name       : libunique
 version    : 3.0.2
-release    : 5
+release    : 6
 source     :
     - https://download.gnome.org/sources/libunique/3.0/libunique-3.0.2.tar.xz : a8f02ce073e2b920cca8ac45d418e7cb64438ad0814780c5912c6d63f8a4e038
 license    : LGPL-2.1-only
